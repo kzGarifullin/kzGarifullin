@@ -2,7 +2,7 @@
   
 1st-year master's student at Skoltech.
 
-former undergraduate student at Moscow Institute of Physics and Technology (MIPT).
+Former undergraduate student at Moscow Institute of Physics and Technology (MIPT).
 
 On this github you can find my tutorial projects.
 - 📫 For any questions, please contact: kamil_20.03@mail.ru
