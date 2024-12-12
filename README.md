@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kzGarifullin
   
-1st-year master's student at Skoltech.
+2nd-year master's student at Skoltech.
 
 Former undergraduate student at Moscow Institute of Physics and Technology (MIPT).
 
