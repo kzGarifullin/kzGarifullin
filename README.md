@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @kzGarifullin
   
-1st-year PhD student at HSE.
+1st-year PhD student at HSE
 
 former undergraduate student at the Moscow Institute of Physics and Technology (MIPT) 
 
-former master's student at the Skolkovo Institute of Science and Technology (Skoltech).
+former master's student at the Skolkovo Institute of Science and Technology (Skoltech)
 
 On this GitHub, you can find my projects, and there are new projects available only at [https://github.com/ControlGenAI](https://github.com/ControlGenAI).
 - 📫 For any questions, please contact: kamil_20.03@mail.ru
